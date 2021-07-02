@@ -1,0 +1,7 @@
+https://googleads.g.doubleclick.net
+https://adclick.g.doubleclick.net
+https://tpc.googlesyndication.com
+https://track.adform.net
+https://fra1-ib.adnxs.com
+https://cat.nl.eu.criteo.com/
+
