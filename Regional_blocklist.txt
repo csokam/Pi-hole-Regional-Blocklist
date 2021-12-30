@@ -9,6 +9,7 @@ googlesyndication.com
 track.adform.net
 fra1-ib.adnxs.com
 cat.nl.eu.criteo.com
+cat.fr.eu.criteo.com
 widgets.sprinklecontent.com
 d1je5ju5jhk0wm.cloudfront.net
 dspk.kindredplc.com
@@ -21,3 +22,5 @@ crcdn01.adnx.com
 cdn1.fireworktv.com
 adform.net
 s1.adform.net
+eb2.3lift.com
+cdn.bmcdn2.com
