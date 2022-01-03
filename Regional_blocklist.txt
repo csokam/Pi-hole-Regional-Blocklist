@@ -10,6 +10,8 @@ track.adform.net
 fra1-ib.adnxs.com
 cat.nl.eu.criteo.com
 cat.fr.eu.criteo.com
+static.criteo.net
+cas.criteo.com
 widgets.sprinklecontent.com
 d1je5ju5jhk0wm.cloudfront.net
 dspk.kindredplc.com
