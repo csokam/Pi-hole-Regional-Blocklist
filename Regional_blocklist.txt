@@ -1,8 +1,10 @@
 googleads.g.doubleclick.net
 g.doubleclick.net
+www.googleadservices.com
 googleads.doubleclick.net
 adclick.g.doubleclick.net
 doubleclick.net
+(\.|^)doubleclick\.net$
 adclick.doubleclick.net
 tpc.googlesyndication.com
 googlesyndication.com
@@ -10,7 +12,9 @@ track.adform.net
 fra1-ib.adnxs.com
 cat.nl.eu.criteo.com
 cat.fr.eu.criteo.com
+pix.eu.criterio.net
 static.criteo.net
+(\.|^)criteo\.net$
 cas.criteo.com
 widgets.sprinklecontent.com
 d1je5ju5jhk0wm.cloudfront.net
