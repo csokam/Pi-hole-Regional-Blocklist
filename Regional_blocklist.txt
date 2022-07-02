@@ -1,8 +1,10 @@
 (\.|^)googleadservices\.net$
 (\.|^)googleads\.g\.doubleclick\.net$
 (\.|^)googleadservices\.com$
+(\.|^)googlesyndication\.com$
 (\.|^)doubleclick\.net$
 (\.|^)criteo\.net$
+(\.|^)criteo\.com$
 
 www.googleadservices.com
 www.google-analytics.com
@@ -11,7 +13,6 @@ www.googletagservices.com
 ad.doubleclick.net
 ade.googlesyndication.com
 adservice.google.com
-googleads.g.doubleclick.net
 pagead2.googlesyndication.com
 googleads.g.doubleclick.net
 ade.googlesyndication.com
