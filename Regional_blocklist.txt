@@ -5,6 +5,15 @@
 (\.|^)doubleclick\.net$
 (\.|^)criteo\.net$
 (\.|^)criteo\.com$
+(\.|^)content\.businessinfoline\.com$
+
+bidder.criteo.com
+adservice.google.com
+gum.criteo.com
+content.businessinfoline.com
+fra1-ib.adnxs-simple.com
+tpc.googlesyndication.com
+googleads.g.doubleclick.net/
 
 www.googleadservices.com
 www.google-analytics.com
