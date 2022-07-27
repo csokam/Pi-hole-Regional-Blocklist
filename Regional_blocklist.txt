@@ -6,6 +6,7 @@
 (\.|^)criteo\.net$
 (\.|^)criteo\.com$
 (\.|^)content\.businessinfoline\.com$
+(\.|^)ad\.adsrvr\.org$
 
 bidder.criteo.com
 adservice.google.com
@@ -14,6 +15,7 @@ content.businessinfoline.com
 fra1-ib.adnxs-simple.com
 tpc.googlesyndication.com
 googleads.g.doubleclick.net/
+ad.adsrvr.org
 
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
